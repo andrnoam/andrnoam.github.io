@@ -1,9 +1,21 @@
+body {
+  min-height: 3000px;
+}
+
 .jumbotron {
   padding-top: 6rem;
   background-color: #1987548a;
 }
 
 #education {
+  background-color: #1987548a;
+}
+
+#SoftwareSkills {
+  background-color: #ffff;
+}
+
+#ContactPerson {
   background-color: #1987548a;
 }
 
